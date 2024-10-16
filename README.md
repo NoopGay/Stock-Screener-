@@ -1,6 +1,6 @@
 # Creating a Stock Screener on Google Cloud Platform
 
-This repository has code to deploy a stock screening app to Google Cloud Platform. The stock screener scrapes through reddit to find the three most mentioned stocks on reddit forums "investing", "wallstreetbets" and "stocks", calculate the sentiment on reddit and create a summary for each stock. The stock screener is programmed to run everyday at 10.30 pm in Google Cloud. The code is deployed to Google Cloud Run using Terraform. 
+This repository has code to deploy a stock screening app to Google Cloud Platform. The stock screener scrapes through reddit to find the four most mentioned stocks on reddit forums "superstonk", "investing", "wallstreetbets" and "stocks", calculate the sentiment on reddit and create a summary for each stock. The stock screener is programmed to run everyday at 10.30 pm in Google Cloud. The code is deployed to Google Cloud Run using Terraform. 
 
 ## Google Cloud Workflow Diagram
 
